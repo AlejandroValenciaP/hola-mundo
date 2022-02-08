@@ -1,4 +1,5 @@
 # hola-mundo
-Mi primer repositorio de preuba
+Mi primer repositorio
 
 autor: Alejandro Valencia
+Fecha: 07-02-22
